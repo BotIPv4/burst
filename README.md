@@ -24,7 +24,7 @@ A simple command api that is mainly made for Bukkit and will soon have JDA imple
 	<dependency>
 	    <groupId>com.github.VncoDev</groupId>
 	    <artifactId>burst</artifactId>
-	    <version>5b41e09ed6</version>
+	    <version>LATEST</version>
 	</dependency>
 
 ```
@@ -47,7 +47,7 @@ A simple command api that is mainly made for Bukkit and will soon have JDA imple
 ```gradle
 
 	dependencies {
-	        implementation 'com.github.VncoDev:burst:5b41e09ed6'
+	        implementation 'com.github.VncoDev:burst:LATEST'
 	}
 
 ```
